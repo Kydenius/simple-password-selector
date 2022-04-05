@@ -3,7 +3,7 @@ import string
 adjectives = ['sleepy', 'slow', 'smelly', 'wet', 'fat', 'furry', 'troublesome',
               'noble', 'phone', 'banana', 'teacher', 'alphabetical', 'wavy',
               'frustrating', 'knighted', 'calm', 'abnormal', 'naked', 'coloquial',
-              'sensless', 'unarmed', ' anemic', 'golden']
+              'senseless', 'unarmed', ' anemic', 'golden']
 
 colours = ['green', 'red', 'orange', 'yellow', 'blue', 'purple', 'white']
 
